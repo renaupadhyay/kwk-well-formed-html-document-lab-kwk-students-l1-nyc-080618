@@ -27,7 +27,7 @@ structure_.
 * Open `index.html` in your text editor
 * Add a `doctype` tag at the top of the
 file indicating that the rest of the file will be HTML code
-* Create opening and closing `html` tags to enclose the remainder of your page's
+* Create opening and closing `html` tags to enclose the remainder sjjjuaiaiof your page's
 content.
 * Add opening and closing n`head` and `body` tags within the outer
 `html` tags to break your HTML document up into two sections.
