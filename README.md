@@ -9,7 +9,7 @@
    tab.
 
 ## Introduction
-
+gji
 Every HTML page needs some basic structural elements in order to function
 properly.  Image the process of building a house - each house is different on
 the inside; the layout, the windows and doors, down to the furniture... all
@@ -29,7 +29,7 @@ structure_.
 file indicating that the rest of the file will be HTML code
 * Create opening and closing `html` tags to enclose the remainder of your page's
 content.
-* Add opening and closing `head` and `body` tags within the outer
+* Add opening and closing n`head` and `body` tags within the outer
 `html` tags to break your HTML document up into two sections.
 
 Remember, the `head` section generally contains data intended for the web
